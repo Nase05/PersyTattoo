@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<tittle>Canal RSS</tittle>
+<link>https://nase05.github.io/PagWeb/PersyTattoo.html</link>
+<description>Noticias sobre tatuajes</description>
+<item>
+    <tittle>El País "Tatuaje"</tittle>
+    <link>https://elpais.com/noticias/tatuaje/</link>
+    <description>Noticias de tatuajes</description>
+</item>
+<item>
+    <tittle>elespanol "Tatuajes"</tittle>
+    <link>https://www.elespanol.com/social/20230228/tatuajes-typical-spanish-americano-virales-encanta-espana/744675885_0.html</link>
+    <description>Noticia2</description>
+</item>
+</channel>
+</rss>
